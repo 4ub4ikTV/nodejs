@@ -8,7 +8,6 @@
 //
 // !руками нічого не робимо, все через fs
 
-
 const fs = require('fs');
 
 const path = require('path');
